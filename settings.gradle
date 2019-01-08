@@ -1,0 +1,1 @@
+include ':Spisokdatchicov', ':aceelerometr', ':camera', ':Camera', ':cameera', ':mirophone', ':google_maps', ':yandex_maps', ':yandex_drive'
